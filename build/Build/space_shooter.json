@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "space_shooter.data.unityweb",
+"asmCodeUrl": "space_shooter.asm.code.unityweb",
+"asmMemoryUrl": "space_shooter.asm.memory.unityweb",
+"asmFrameworkUrl": "space_shooter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
